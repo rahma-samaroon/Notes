@@ -363,4 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 
-Notes/swagger.json
+Notes/openapi.yaml
